@@ -5,9 +5,23 @@
 ### URL
 LinkBehaviour_07DEB92B_1255_F36D_41A0_CF20DCAD5B31.source = https://www.google.com/maps/place/Pesantren+Teknologi+Majapahit/@-7.6187099,112.4262698,6092m/data=!3m1!1e3!4m6!3m5!1s0x2e786fd699864baf:0x226fce413f966fd3!8m2!3d-7.6187099!4d112.4262698!16s%2Fg%2F11smmf90mj!5m1!1e1?entry=ttu
 
+## Hotspot
+
+### Tooltip
+sprite_ED33314D_FF69_A86E_41CF_78D431F4F121.toolTip = Area Berkuda
+sprite_EEB70509_FF6A_E9D6_41BC_B17A8D2273E1.toolTip = Gedung Asrama
+sprite_EDF81731_FF69_E836_41BA_24550C8EF4FE.toolTip = Gedung Pendopo
+sprite_ED77BA35_FF6A_583E_41C2_DEACF7D1B1AB.toolTip = Gedung Pimpinan
+sprite_EEAF7795_FF6E_68FF_41EC_51F0C39BFC6B.toolTip = Gedung Serbaguna
+sprite_144847A1_02DD_F020_4183_4382774D80D0.toolTip = Gedung Tempat Makan
+sprite_ED54962E_FF6A_682A_41EB_66F2F6320086.toolTip = Gerbang Utama
+sprite_EC1AAB67_FF6B_D85A_41E7_5091CAEADFB8.toolTip = Kandang Kuda
+sprite_EC4DEDEA_FF6A_F855_41E6_CFC4816E2A01.toolTip = Kantin
+
 ## Media
 
 ### Title
+model_FE874714_F365_6604_41E8_803E2E4EB871.label = PTM 1
 panorama_1C2C6D26_0760_F3F3_419B_B486CCC4D493.label = R0010038_2
 panorama_1ED226AC_0720_DEF0_4182_F94D36B16B17.label = R0010071
 panorama_09D9043E_0727_71D3_417B_DF32BE67E64C.label = R0010072_2
@@ -16,7 +30,8 @@ panorama_1D1662EC_0723_7677_417A_8436BBAD6B47.label = R0010079_2
 panorama_1D230461_0720_D271_4197_9A39FA3AE224.label = R0010081
 panorama_239ADCBF_0921_32CB_417E_A9172410426C.label = R0010087
 panorama_1E557D1E_0720_F3D3_4187_46C2EC66D99B.label = R0010088
-model_F2B8558E_FED7_ADE2_41EB_D88AC6FC9F43.label = compressed
+panorama_E6E34FF3_F365_261C_41E5_9E9256CD23C2.label = R0010089
+model_1974516A_00CD_75BA_4136_8B5EE2B165BC.label = intro
 
 ## Skin
 
@@ -34,7 +49,6 @@ Image_0447F754_11AE_3F3B_4195_87C0137702C1.url = skin/Image_0447F754_11AE_3F3B_4
 Image_0456C274_1682_0DE9_41B0_7EDF62AFEE10.url = skin/Image_0456C274_1682_0DE9_41B0_7EDF62AFEE10_en.jpg
 Image_045A5950_11AA_533B_41A1_37D91632CDA8.url = skin/Image_045A5950_11AA_533B_41A1_37D91632CDA8_en.png
 Image_04677D6F_127A_73E5_4189_66EDF3AFA08C.url = skin/Image_04677D6F_127A_73E5_4189_66EDF3AFA08C_en.png
-Image_047E18E2_169E_3EE9_41B6_346032D58A91.url = skin/Image_047E18E2_169E_3EE9_41B6_346032D58A91_en.png
 Image_04892133_11AA_737D_41B0_C8A9B6098AEE.url = skin/Image_04892133_11AA_737D_41B0_C8A9B6098AEE_en.png
 Image_04959C62_168E_15E8_41A9_9A6D120A22DB.url = skin/Image_04959C62_168E_15E8_41A9_9A6D120A22DB_en.jpg
 Image_04A184E4_11AE_D11B_41A8_6613F8675794.url = skin/Image_04A184E4_11AE_D11B_41A8_6613F8675794_en.png
@@ -45,27 +59,19 @@ Image_04DBB71C_169D_F359_41B2_73A5DC35036E.url = skin/Image_04DBB71C_169D_F359_4
 Image_04FBBEDE_168E_32D9_41AE_36D26C0C24C1.url = skin/Image_04FBBEDE_168E_32D9_41AE_36D26C0C24C1_en.jpg
 Image_05BA7D8B_11D6_532D_418F_9D240905E462.url = skin/Image_05BA7D8B_11D6_532D_418F_9D240905E462_en.png
 Image_05E7B68F_1682_1538_41B4_2DC84027AA14.url = skin/Image_05E7B68F_1682_1538_41B4_2DC84027AA14_en.jpg
-Image_062B906A_1682_0DF8_4177_E5690DD1211A.url = skin/Image_062B906A_1682_0DF8_4177_E5690DD1211A_en.png
 Image_063554A4_1256_311B_41B1_2F66546CF509.url = skin/Image_063554A4_1256_311B_41B1_2F66546CF509_en.png
-Image_06821B0A_169E_3339_41A1_9D38B92B9910.url = skin/Image_06821B0A_169E_3339_41A1_9D38B92B9910_en.png
-Image_069ACCF1_169E_36EB_41A1_A5485470A1FC.url = skin/Image_069ACCF1_169E_36EB_41A1_A5485470A1FC_en.png
 Image_073869E4_1682_1EE9_41B0_4657F2EFD387.url = skin/Image_073869E4_1682_1EE9_41B0_4657F2EFD387_en.png
 Image_077C8B85_11AE_5725_4186_B66BFC2713BA.url = skin/Image_077C8B85_11AE_5725_4186_B66BFC2713BA_en.png
 Image_079F8B13_127A_373D_41A6_12DF6AB5E3C6.url = skin/Image_079F8B13_127A_373D_41A6_12DF6AB5E3C6_en.png
 Image_07D0DAB7_1257_D165_4175_C537898087A3.url = skin/Image_07D0DAB7_1257_D165_4175_C537898087A3_en.png
 Image_07E82B27_1256_3765_4170_9C00A8FC5C8F.url = skin/Image_07E82B27_1256_3765_4170_9C00A8FC5C8F_en.png
 Image_07FCFB39_11B6_376D_4160_E6D7F6CADCD0.url = skin/Image_07FCFB39_11B6_376D_4160_E6D7F6CADCD0_en.png
-Image_1936084C_169E_1D39_41B2_A5295722C28A.url = skin/Image_1936084C_169E_1D39_41B2_A5295722C28A_en.png
-Image_193F2C4F_1682_1537_4194_F3BC345BA0EF.url = skin/Image_193F2C4F_1682_1537_4194_F3BC345BA0EF_en.png
-Image_194055E3_169E_16EF_4190_3912F434B7F4.url = skin/Image_194055E3_169E_16EF_4190_3912F434B7F4_en.png
-Image_19486E61_169E_15EB_41B0_87B0C9735907.url = skin/Image_19486E61_169E_15EB_41B0_87B0C9735907_en.png
-Image_1950BB68_169E_73F9_41AB_5D93BE9C54F2.url = skin/Image_1950BB68_169E_73F9_41AB_5D93BE9C54F2_en.png
-Image_19569D92_169E_1729_41A9_752B524C1A62.url = skin/Image_19569D92_169E_1729_41A9_752B524C1A62_en.png
-Image_1A8E9150_07E3_33AF_4150_56FA87099800.url = skin/Image_1A8E9150_07E3_33AF_4150_56FA87099800_en.png
+Image_11F4FA82_0053_776B_4143_4623A19830A4.url = skin/Image_11F4FA82_0053_776B_4143_4623A19830A4_en.png
+Image_14838587_02FD_10CB_4175_394007E17638.url = skin/Image_14838587_02FD_10CB_4175_394007E17638_en.png
+Image_1604E77B_0075_1D99_413F_5C6B710FE2D6.url = skin/Image_1604E77B_0075_1D99_413F_5C6B710FE2D6_en.jpeg
 Image_1A8E9150_07E3_33AF_4150_56FA87099800_mobile.url = skin/Image_1A8E9150_07E3_33AF_4150_56FA87099800_mobile_en.png
 Image_1A96FFC9_07E1_4EB1_4198_0F361F4CED38.url = skin/Image_1A96FFC9_07E1_4EB1_4198_0F361F4CED38_en.png
 Image_1A96FFC9_07E1_4EB1_4198_0F361F4CED38_mobile.url = skin/Image_1A96FFC9_07E1_4EB1_4198_0F361F4CED38_mobile_en.png
-Image_1A9A9270_07E3_566F_4185_84E72F45C0D0.url = skin/Image_1A9A9270_07E3_566F_4185_84E72F45C0D0_en.png
 Image_1A9A9270_07E3_566F_4185_84E72F45C0D0_mobile.url = skin/Image_1A9A9270_07E3_566F_4185_84E72F45C0D0_mobile_en.png
 Image_1AAF38C6_07E1_F2B0_415C_E522674C2D7C.url = skin/Image_1AAF38C6_07E1_F2B0_415C_E522674C2D7C_en.png
 Image_1AAF38C6_07E1_F2B0_415C_E522674C2D7C_mobile.url = skin/Image_1AAF38C6_07E1_F2B0_415C_E522674C2D7C_mobile_en.png
@@ -74,28 +80,75 @@ Image_1AB9F388_07E1_36BF_4197_0942DA927614_mobile.url = skin/Image_1AB9F388_07E1
 Image_1B5E678F_07E3_3EB1_4184_8ADCBAF20D91.url = skin/Image_1B5E678F_07E3_3EB1_4184_8ADCBAF20D91_en.png
 Image_1B5E678F_07E3_3EB1_4184_8ADCBAF20D91_mobile.url = skin/Image_1B5E678F_07E3_3EB1_4184_8ADCBAF20D91_mobile_en.png
 Image_1B7A1D79_07E0_D251_4178_EDCD38188CAF_mobile.url = skin/Image_1B7A1D79_07E0_D251_4178_EDCD38188CAF_mobile_en.png
+Image_22883848_0075_13E6_4152_B06B1B96F1EC.url = skin/Image_22883848_0075_13E6_4152_B06B1B96F1EC_en.jpg
+Image_22C64625_0077_1FA9_4166_67E0F3148B25.url = skin/Image_22C64625_0077_1FA9_4166_67E0F3148B25_en.jpg
+Image_23FDBD30_007D_0DA6_4161_94A13C16F72C.url = skin/Image_23FDBD30_007D_0DA6_4161_94A13C16F72C_en.jpg
+Image_24039CF6_03D3_11E2_4186_637FFF154CAF.url = skin/Image_24039CF6_03D3_11E2_4186_637FFF154CAF_en.jpg
+Image_24899C2B_03B7_3060_413A_8D89B08024F8.url = skin/Image_24899C2B_03B7_3060_413A_8D89B08024F8_en.jpg
+Image_248F7274_03F5_30E5_4184_344E39BEA7AC.url = skin/Image_248F7274_03F5_30E5_4184_344E39BEA7AC_en.jpg
+Image_24D05EEA_03CC_F1E0_4169_F2308D3C8356.url = skin/Image_24D05EEA_03CC_F1E0_4169_F2308D3C8356_en.jpg
+Image_2501DE49_03CF_102C_4173_98087B6E379E.url = skin/Image_2501DE49_03CF_102C_4173_98087B6E379E_en.png
 Image_252436FC_0763_3E57_4184_C5CA04798468_mobile.url = skin/Image_252436FC_0763_3E57_4184_C5CA04798468_mobile_en.png
-Image_33852F7E_12FE_2FE7_41A8_36349371CB9C.url = skin/Image_33852F7E_12FE_2FE7_41A8_36349371CB9C_en.png
-Image_34384FC0_0B5F_4EAF_4184_30B459636A04.url = skin/Image_34384FC0_0B5F_4EAF_4184_30B459636A04_en.png
+Image_253B2332_03CD_107F_4180_0C0C4BDF5C4B.url = skin/Image_253B2332_03CD_107F_4180_0C0C4BDF5C4B_en.png
+Image_25531DB8_03D3_106C_417A_9CACEFB2BFB9.url = skin/Image_25531DB8_03D3_106C_417A_9CACEFB2BFB9_en.png
+Image_25856BEC_03D5_77EB_4141_004A2753DE3C.url = skin/Image_25856BEC_03D5_77EB_4141_004A2753DE3C_en.png
+Image_259AD1E6_03D3_13E7_4185_1FC716CACCF8.url = skin/Image_259AD1E6_03D3_13E7_4185_1FC716CACCF8_en.png
+Image_25CFFD4D_03D5_1024_4174_5B5B83ACA258.url = skin/Image_25CFFD4D_03D5_1024_4174_5B5B83ACA258_en.png
+Image_25E18D6B_03CD_10EC_417B_56C4B806E2B5.url = skin/Image_25E18D6B_03CD_10EC_417B_56C4B806E2B5_en.png
+Image_26AF9623_03CF_101C_417A_8DCF6F4F0EB0.url = skin/Image_26AF9623_03CF_101C_417A_8DCF6F4F0EB0_en.png
+Image_26C95551_03D7_103D_4187_009FBB5DFBF3.url = skin/Image_26C95551_03D7_103D_4187_009FBB5DFBF3_en.png
+Image_26D08213_03D5_F03C_4189_42D5FA0694AA.url = skin/Image_26D08213_03D5_F03C_4189_42D5FA0694AA_en.png
+Image_2933AB48_03CC_F02E_4189_39AD56DC78C2.url = skin/Image_2933AB48_03CC_F02E_4189_39AD56DC78C2_en.jpg
+Image_29D87EBA_03B3_1060_417A_B7647A61FAA2.url = skin/Image_29D87EBA_03B3_1060_417A_B7647A61FAA2_en.jpg
+Image_2A51D86F_03CD_30E0_4181_8E8E0A3D9022.url = skin/Image_2A51D86F_03CD_30E0_4181_8E8E0A3D9022_en.jpg
+Image_2A6117A5_03DF_1061_4168_BB2DC4ED088B.url = skin/Image_2A6117A5_03DF_1061_4168_BB2DC4ED088B_en.jpg
+Image_2A9DA7D4_03D7_1027_418B_68F56C8DBFCC.url = skin/Image_2A9DA7D4_03D7_1027_418B_68F56C8DBFCC_en.png
+Image_2ABD9B28_03BF_1060_4179_E2E69E18478D.url = skin/Image_2ABD9B28_03BF_1060_4179_E2E69E18478D_en.jpg
+Image_2ACB42BC_03D3_1067_416F_D65C40C5CA22.url = skin/Image_2ACB42BC_03D3_1067_416F_D65C40C5CA22_en.jpg
+Image_2AD879B0_03F5_307D_416B_3E4524B6074C.url = skin/Image_2AD879B0_03F5_307D_416B_3E4524B6074C_en.jpg
+Image_2AE32F8C_03B5_F020_417B_0A751B15DD7E.url = skin/Image_2AE32F8C_03B5_F020_417B_0A751B15DD7E_en.jpg
+Image_2B2DDA25_03BD_7060_4187_742FFDA195A1.url = skin/Image_2B2DDA25_03BD_7060_4187_742FFDA195A1_en.jpg
+Image_2B59346E_03CF_10E2_4187_B0AE7B065859.url = skin/Image_2B59346E_03CF_10E2_4187_B0AE7B065859_en.jpg
+Image_2B831F22_03F3_3062_4173_FECE34A5F75D.url = skin/Image_2B831F22_03F3_3062_4173_FECE34A5F75D_en.jpg
+Image_2BBF8A56_03DD_1022_4188_FAA35BD61510.url = skin/Image_2BBF8A56_03DD_1022_4188_FAA35BD61510_en.jpg
 Image_3EA1A5C7_08EF_52B1_4191_E40321253C9D.url = skin/Image_3EA1A5C7_08EF_52B1_4191_E40321253C9D_en.png
 Image_3F983149_08E1_53B1_4170_9567C5B3C4DC.url = skin/Image_3F983149_08E1_53B1_4170_9567C5B3C4DC_en.png
 Image_E79FF7A2_FEF1_6DDD_41C5_71B75C7B911D_mobile.url = skin/Image_E79FF7A2_FEF1_6DDD_41C5_71B75C7B911D_mobile_en.png
 
 ### Label
+Label_267321F3_03CD_73FC_4171_4999CFC12D4E.text = 1). Gedung Asrama
+Label_259A63E1_03F4_F01F_417A_2EF3773DECD6.text = 2). Kandang Kuda
+Label_266C6F48_03F3_702C_4185_C79F07A889A4.text = 3). Gedung Tempat Makan Bersama
+Label_24629C9F_03F7_3024_4189_965F0934DCEF.text = 4). Gedung Pimpinan
+Label_25990646_03FD_1025_415B_7FC7C157FF68.text = 5). Gedung Serbaguna
+Label_247C5A33_03FD_1063_4188_CC05FC0B4432.text = 6). Kantin
+Label_250C8C38_03FF_306D_4179_4EED44CC069B.text = 7). Gerbang Utama
+Label_26C9D5B3_03FF_3063_414A_BF876CAF7431.text = 8). Gedung Pendopo
+Label_260D2D83_03FD_1023_418A_4B22C361E62F.text = 9). Area Berkuda
 Label_027C0883_11DA_D11D_4187_720A83420E0A.text = A,W,S,D
 Label_F128A1C6_FEF9_FED8_41C2_0F61B29A7A22_mobile.text = ABOUT US
 Label_EEA5B1E0_FEF9_3ED8_41E5_7F67276FF4D4_mobile.text = AKADEMIK
 Label_EEF6609C_FF0B_5D68_41EE_B42804A19EEF_mobile.text = APPLY NOW
 Label_0501679C_11AA_5F2B_41A9_AB192497A7F2.text = Drag & Move
-Label_05B8BF3F_11D6_2F66_418D_DC6E21E10AE0.text = Drag & Move
-Label_052CCB04_11AA_371A_41AB_3B0B03304222.text = Drag & Move
 Label_0456A79C_11AE_3F2B_41A7_5F963011968F.text = Drag & Move
+Label_052CCB04_11AA_371A_41AB_3B0B03304222.text = Drag & Move
+Label_05B8BF3F_11D6_2F66_418D_DC6E21E10AE0.text = Drag & Move
 Label_F1683EF0_FEFA_C2B8_41E2_26F1F50CABC2_mobile.text = FASILITAS
-Label_31DA5210_0B21_71AF_419C_80C4C893FF58.text = Highlights
+Label_1AB9E433_02B5_1012_4173_9329B81C3626.text = GO TO PANORAMA
+Label_185195F9_034D_100A_4185_5BACABA8111C.text = GO TO PANORAMA
+Label_1BCEE7C7_02B7_307A_4181_686985BBA7B5.text = GO TO PANORAMA
+Label_1A1C4E58_02B3_1012_4181_55F8B3158FCB.text = GO TO PANORAMA
+Label_15ECB83C_02D4_F029_4171_E0C3EF97AEEE.text = GO TO PANORAMA
+Label_1EFCFB2A_0357_1002_4184_C517C666B0D2.text = GO TO PANORAMA
+Label_1A8E1B69_02D5_1026_416E_D1AAA722665F.text = GO TO PANORAMA
+Label_17A8D9A6_02CD_10D1_4179_BB0921655256.text = GO TO PANORAMA
+Label_102F70A3_02D5_3096_415D_3F64B2AFD0E8.text = GO TO PANORAMA
+Label_16CBFE2A_0057_0FBB_4137_8898C4137024.text = HIGHLIGHT
 Label_021DD15B_11F6_732D_4193_E3CD75DC69F2.text = How To Interact
 Label_0762F924_126A_D31B_4194_7BB2674E5D22.text = Indonesia
 Label_04BEDA4C_11AA_512B_4185_16619C04FC55.text = Left, Right, Up, Down
 Label_046016AB_11AE_516D_41AB_2480A93CD2AE.text = Left, Right, Up, Down
+Label_143FAA92_0055_776B_4121_B03BA8BB1568.text = MOJOKERTO, JAWA TIMUR
 Label_EEF068CA_FF09_4EE8_41EE_75F13C59984F_mobile.text = MOJOKERTO, JAWA TIMUR
 Label_06DF40EA_1276_D2EF_41A3_7A09AC760234.text = Mojokerto, Jawa Timur
 Label_024D6543_11DE_331D_419B_C3C08BCFAB24.text = Move
@@ -103,18 +156,36 @@ Label_0742BF14_126E_6F3B_415B_11B0ABE2FE68.text = OPEN GOOGLE MAPS
 Label_04376FDC_125A_2F2B_419C_981BEB120D77.text = Orbit
 Label_F11DB283_FEFB_5D58_41EB_884F604F523C_mobile.text = PROGRAM
 Label_04EB8614_11AA_F13B_419D_12F54EB3B87E.text = Pan/Tilt
+Label_211CCE7B_0053_0F9A_4163_8EA838DC29CD.text = Pesantren Teknologi Majapahit
 Label_07C4C52C_11B6_536A_41B0_33DCB501B19C.text = Q,E
+Label_1923BEAA_00F5_0CBA_4150_C1123D740D08.text = SKIP INTRO
 Label_049966DB_11AA_312D_41AD_23BC58A5ACD9.text = Shift +
 Label_04D07D73_11AB_D3FD_41A6_3376B99C727C.text = Shift +
 Label_04C01943_11B6_731D_41AA_306C2E3AB14A.text = Up Or Down
 Label_07AB4F1C_11AB_EF2B_4184_2B05F9BDB649.text = Up/Down
+Label_2172D294_0033_376F_4147_1B0578A8F6B0.text = VIRTUAL TOUR
+Label_2067660A_003F_1F7B_4160_F6C68F567194.text = WELCOME TO
+Label_12A176C0_0403_04B4_417B_2FE86D1279B8.text = Yuk Bergabung!
 
 ### Multiline Text
+HTMLText_15E2983B_02D4_F02F_416F_C9160843B94B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>Area</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>Berkuda</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;">Area berkuda di pesantren tidak hanya sekadar fasilitas olahraga, namun juga menjadi sarana pendidikan karakter yang efektif. Melalui kegiatan berkuda, santri dilatih untuk disiplin, sabar, bertanggung jawab, dan berani. Selain itu, berkuda juga dapat meningkatkan kesehatan fisik dan mental santri, serta menumbuhkan rasa percaya diri.</SPAN></DIV></div>
+HTMLText_1AB18B67_02D5_102A_4183_77EA98D2D7F6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>Gedung</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>Asrama</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;">Gedung asrama  merupakan rumah kedua bagi para santri. Di sinilah mereka tinggal, belajar, dan beristirahat. Asrama tidak hanya menyediakan tempat tinggal, tetapi juga menjadi ruang bagi santri untuk berinteraksi, mengembangkan diri, dan membentuk karakter. Dengan suasana yang kondusif dan fasilitas yang memadai.</SPAN></DIV></div>
+HTMLText_1EF3CB29_0357_100E_417D_A26B9C91B84E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>Gedung</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>Kantin</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;">Gedung kantin di pesantren memiliki peran yang sangat penting dalam menunjang aktivitas sehari-hari santri. Selain sebagai tempat untuk memenuhi kebutuhan makan, kantin juga berfungsi sebagai ruang sosial di mana para santri dapat berinteraksi dan mempererat tali silaturahmi. </SPAN></DIV></div>
+HTMLText_1BD047C6_02B7_307A_4180_3393E47126F7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>Gedung</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>Pendopo</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;">Gedung pendopo di pesantren ini memiliki peran yang sangat penting sebagai pusat kegiatan dan interaksi sosial. Pendopo berfungsi sebagai tempat untuk menyelenggarakan berbagai acara, seperti pengajian, rapat, pertemuan wali santri, dan acara-acara penting lainnya. Selain itu, pendopo juga menjadi tempat berkumpulnya seluruh warga pesantren untuk bersantai dan bertukar pikiran.</SPAN></DIV></div>
+HTMLText_17A079A4_02CD_10D1_4185_8F9A2E3C5048.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>Gedung</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>Pimpinan</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;">Gedung pimpinan ini merupakan jantung dari kegiatan administrasi dan pengelolaan pesantren. Di sinilah berbagai keputusan strategis diambil, koordinasi antar bagian dilakukan, serta berbagai kegiatan pesantren direncanakan dan dipantau. Selain itu, gedung pimpinan juga seringkali menjadi tempat pertemuan antara pimpinan pesantren dengan para tamu, baik dari kalangan internal maupun eksternal.</SPAN></DIV></div>
+HTMLText_23BCC154_005D_15EE_4165_EF92568D25F8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>Gedung</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>Serbaguna</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;">Gedung serbaguna di pesantren merupakan fasilitas penting yang memiliki beragam fungsi. Selain sebagai tempat penyelenggaraan kegiatan keagamaan seperti pengajian, seminar, dan perayaan hari besar Islam, gedung ini juga dapat digunakan untuk kegiatan sosial, akademik, dan bahkan kegiatan kesenian. Dengan adanya gedung serbaguna, pesantren dapat mengakomodasi berbagai kebutuhan santri dan masyarakat sekitar secara lebih efektif.</SPAN></DIV></div>
+HTMLText_1ABEC431_02B5_102E_4131_90243F0CE4FA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>Gedung</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>Tempat Makan</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;">Gedung tempat makan di pesantren ini memiliki peran yang sangat vital dalam menunjang aktivitas sehari-hari santri. Selain sebagai tempat untuk memenuhi kebutuhan nutrisi, gedung makan juga berfungsi sebagai ruang sosial di mana para santri dapat berinteraksi dan mempererat tali silaturahmi. Desain dan suasana yang nyaman di gedung makan dapat menciptakan lingkungan belajar yang kondusif.</SPAN></DIV></div>
+HTMLText_184E25F8_034D_1009_4187_7990CA119422.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>Gerbang</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>Utama</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;">Gerbang utama sebuah pesantren bukan sekadar pintu masuk, melainkan juga simbol identitas dan wajah pesantren itu sendiri. Gerbang yang kokoh dan megah menjadi penanda kedatangan pengunjung ke suatu lingkungan yang menjunjung tinggi nilai-nilai agama dan pendidikan. Selain itu, gerbang juga berfungsi sebagai pintu gerbang menuju dunia ilmu pengetahuan dan spiritualitas yang akan dipelajari oleh para santri.</SPAN></DIV></div>
+HTMLText_1A1F1E57_02B3_101E_4180_8FDD94F528CC.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:37px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:37px;"><B>Kandang</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:18px;"><B>Kuda</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:justify;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;">Kandang kuda di pesantren bukan hanya sekadar tempat untuk memelihara kuda, tetapi juga merupakan bagian integral dari proses pendidikan karakter santri. Di sini, santri belajar tentang tanggung jawab, kasih sayang terhadap hewan, dan disiplin dalam merawat makhluk hidup. Selain itu, kandang kuda juga menjadi tempat bagi santri untuk melatih keterampilan berkuda dan meningkatkan kesehatan fisik.</SPAN></DIV></div>
 HTMLText_E7F0101C_FECF_62E6_41E4_1DF8D783060A_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.5px;font-family:'Montserrat';"><B>Pesantren</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.5px;font-family:'Montserrat';"><B>Teknologi Majapahit</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:7px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Tooltip
+Container_1ADB957F_00FD_7D99_4134_F5E6837CB90E.toolTip =  \
+
 
 ## Tour
 
 ### Description
 
 ### Title
-tour.name = Untitled 3
+tour.name = VT Pondok Pesantren Teknologi Majapahit
